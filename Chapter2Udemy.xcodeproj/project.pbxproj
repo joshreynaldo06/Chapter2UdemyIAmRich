@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D49D7F9F23D6A43D0025BCD2 /* Chapter2UdemyI_AM_RICH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chapter2UdemyI_AM_RICH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D49D7F9F23D6A43D0025BCD2 /* I Am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49D7FA223D6A43D0025BCD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D49D7FA423D6A43D0025BCD2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D49D7FA623D6A43D0025BCD2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D49D7FA023D6A43D0025BCD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D49D7F9F23D6A43D0025BCD2 /* Chapter2UdemyI_AM_RICH.app */,
+				D49D7F9F23D6A43D0025BCD2 /* I Am Rich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = Chapter2Udemy;
 			productName = Chapter2Udemy;
-			productReference = D49D7F9F23D6A43D0025BCD2 /* Chapter2UdemyI_AM_RICH.app */;
+			productReference = D49D7F9F23D6A43D0025BCD2 /* I Am Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.JRCJosh.Chapter2Udemy.IAMRICH;
-				PRODUCT_NAME = Chapter2UdemyI_AM_RICH;
+				PRODUCT_NAME = "I Am Rich";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.JRCJosh.Chapter2Udemy.IAMRICH;
-				PRODUCT_NAME = Chapter2UdemyI_AM_RICH;
+				PRODUCT_NAME = "I Am Rich";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
